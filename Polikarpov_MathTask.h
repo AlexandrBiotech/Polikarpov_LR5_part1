@@ -26,7 +26,7 @@ void EnterDigit(int &varLink, const string &label) {
 }
 
 int CalcRectangleArea(int NumberA, int NumberB) {
-    return NumberA * NumberB + 10; // Добавляем ошибку
+    return NumberA * NumberB;
 }
 
 #endif
